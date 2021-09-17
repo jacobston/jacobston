@@ -1,0 +1,1 @@
+👋 Hi, I’m @jacobston! I write documentation for a semiconductor supplier in Ontario, Canada and work on projects involving HMI's and uC applications in my free time. Hardware is a passion of mine and I love to create electronics for a set purpose, especially if that purpose involves flying or flight simulation.
